@@ -1,26 +1,28 @@
 # JavaScript
-已有js手写题18个、js小项目14个
+已有js手写题20个、js小项目14个
 慢慢更新...
 
 ##手写题目
-1. compose
-2. SetInterval
-3. 数组方法reduce
-4. 数组方法flat
+1. 数组方法reduce
+2. 数组方法flat
+3. 数组去重总结
+4. 发布订阅模式
 5. apply,call
 6. bind
 7. 深拷贝deepClone
 8. instance操作符
 9. new操作符
 10. 柯里化函数curry
-11. Promise.all、Promise.race、Promise.allSettled
-12. 防抖、节流
-13. 树转列表
-14. 列表转树
-15. 冒泡排序
-16. 选择排序
-17. 快排
-18. 二分查找
+11. 组合函数compose
+12. SetInterval
+13. Promise.all、Promise.race、Promise.allSettled
+14. 防抖、节流
+15. 树转列表
+16. 列表转树
+17. 冒泡排序
+18. 选择排序
+19. 快排
+20. 二分查找
 
 ## js项目
 1. 文字滚动效果 
